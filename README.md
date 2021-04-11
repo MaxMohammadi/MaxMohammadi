@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![banner_art](term.png)
 <!--
 **MaxMohammadi/MaxMohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
