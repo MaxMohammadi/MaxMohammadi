@@ -1,4 +1,10 @@
 ![banner_art](term.png)
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxMohammadi&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/>
+
 <!--
 **MaxMohammadi/MaxMohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
