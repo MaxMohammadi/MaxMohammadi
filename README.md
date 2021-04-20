@@ -39,7 +39,7 @@
 
 - 👯 I’m looking to collaborate on an open-source data visualization web app using Flask and React 
 
-- 💬 Talk to me about philosophy, running, algorithms, financial markets 
+- 💬 Talk to me about space, running, algorithms, financial markets, crypto, and Elon Musk 
 
 
 <p align="center">
