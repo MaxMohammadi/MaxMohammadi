@@ -42,10 +42,4 @@
 - 💬 Talk to me about space, running, algorithms, financial markets, crypto, and Elon Musk 
 
 
-<p align="center">
-      <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
-    <a href="https://github.com/MaxMohammadi">
-      <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxMohammadi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-      <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxMohammadi&layout=compact&langs_count=8&theme=synthwave"/>
-    </a>
-</p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=synthwave" alt="MaxMohammadi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=synthwave&hide_title=true" alt="MaxMohammadi"/> </p>
