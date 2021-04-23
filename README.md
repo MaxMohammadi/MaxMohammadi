@@ -43,10 +43,10 @@
 
 
 <p align="center" height='130px'>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=jolly" alt="MaxMohammadi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&show_icons=true&theme=jolly&hide_title=true" alt="MaxMohammadi"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=cobalt" alt="MaxMohammadi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&show_icons=true&theme=cobalt&hide_title=true" alt="MaxMohammadi"/> 
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi&show_icons=true&theme=jolly&line_height=40">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi&show_icons=true&theme=cobalt&line_height=40">
 </p>
 
