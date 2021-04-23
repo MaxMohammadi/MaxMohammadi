@@ -41,11 +41,11 @@
 
 - 💬 Talk to me about space, running, algorithms, financial markets, crypto, and Elon Musk 
 
+[![Max Mohammadi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" height='130px'>
 
   <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=synthwave" alt="MaxMohammadi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=synthwave&hide_title=true" alt="MaxMohammadi"/> 
 </p>
 
-[![Max Mohammadi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi)](https://github.com/anuraghazra/github-readme-stats)
 
