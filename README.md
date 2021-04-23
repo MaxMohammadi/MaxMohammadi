@@ -47,6 +47,6 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi&show_icons=true&theme=jolly">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi&show_icons=true&theme=jolly&line_height=40">
 </p>
 
