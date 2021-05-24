@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on an anomaly detection platform (frontend and backend) for time series data
 
-- 🌱 I’m currently learning SQL, InfluxDB, and Sci-Kit Learn 
+- 🌱 I’m currently learning SQL, InfluxDB, Sci-Kit Learn, and Web3 Frameworks
 
 - 👯 I’m looking to collaborate on an open-source data visualization web app using Flask and React 
 
