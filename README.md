@@ -33,7 +33,7 @@
 </p>
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on an anomaly detection platform (frontend and backend) for time series data
+- 🔭 I’m currently working on an anomaly detection platform (frontend and backend) for time series spacecraft telemetry data
 
 - 🌱 I’m currently learning SQL, InfluxDB, Sci-Kit Learn, and Web3 Frameworks
 
