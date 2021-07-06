@@ -46,11 +46,21 @@
 </br>
 
 
-<p align="center" height='130px'>
+<!-- <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=cobalt" alt="MaxMohammadi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&show_icons=true&theme=cobalt&hide_title=true" alt="MaxMohammadi"/> <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxMohammadi&show_icons=true&theme=cobalt&line_height=40">
 </p>
+ -->
+ 
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&show_icons=true&theme=cobalt&hide_title=true" alt="MaxMohammadi"/>
+</p>
 
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Wall&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=cobalt"/>
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MaxMohammadi&hide_border=true&theme=cobalt&background=3D3D3D&stroke=00E6FE" alt="MaxMohammadi"/>
+</p>
 
