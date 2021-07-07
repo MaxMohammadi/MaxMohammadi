@@ -51,13 +51,30 @@
 </p>
  -->
  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&theme=cobalt">
 </p>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MaxMohammadi&show_icons=true&theme=cobalt&background=3D3D3D&stroke=00E6FE">
 </p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Max Mohammadi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaxMohammadi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
+<a href="https://github.com/MaxMohammadi/">
+  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MaxMohammadi&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=false"/>
+</a>
+<a href="https://github.com/MaxMohammadi/">
+  <img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?username=MaxMohammadi&bg_color=111111&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Max Mohammadi" />  
+  
+</a>
+<a href="https://github.com/MaxMohammadi/">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&theme=chartreuse-dark&langs_count=5&count_private=true"/>
+</a>
+<a href="https://github.com/MaxMohammadi/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+</a>
 
 
  
