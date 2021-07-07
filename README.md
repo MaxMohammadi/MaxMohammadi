@@ -51,13 +51,15 @@
 </p>
  -->
  
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_title=true&include_all_commits=true&theme=cobalt">
 </p>
 
-<p align="right">
+<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MaxMohammadi&show_icons=true&theme=cobalt&background=3D3D3D&stroke=00E6FE">
 </p>
+
+
  
 
 <!-- ![Max Mohammadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
