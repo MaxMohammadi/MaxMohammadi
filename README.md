@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning SQL, InfluxDB, Sci-Kit Learn, and Web3 Frameworks
 
-- 👯 I’m looking to collaborate on an open-source data visualization web app using Flask and React 
+- 👯 I’m looking to collaborate on an open-source DeFi projects on the Celo and Ethereum blockchains
 
 - 💬 Talk to me about space, running, algorithms, financial markets, crypto, and Elon Musk
 
