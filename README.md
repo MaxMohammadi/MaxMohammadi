@@ -1,9 +1,5 @@
-![](https://github.com/MaxMohammadi/MaxMohammadi/blob/main/render1628458074682.gif)
+![](https://github.com/MaxMohammadi/MaxMohammadi/blob/main/render1628462717562.gif)
 
-
-<div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/MaxMohammadi/MaxMohammadi/main/term.png" alt="cover" />
-</div>
 
 <h1 align='center'> Hello World! </h1>
 <p align='center'>
@@ -32,6 +28,7 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/graphql.svg'>
 <br>
 </br>
 </p>
