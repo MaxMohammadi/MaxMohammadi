@@ -4,7 +4,7 @@
 <h1 align='center'> Hello World! </h1>
 <p align='center'>
 </p>
-<div align = 'center' size='20px'> Hi! My name is Max Mohammadi. Thank You for taking the time to view my GitHub Profile :smile:
+<div align = 'center' size='20px'> Hi! My name is Max Mohammadi. Check out my GitHub Profile :smile:
 </br>
 </br>
 <h2 align='center'> Connect with me </h2>
