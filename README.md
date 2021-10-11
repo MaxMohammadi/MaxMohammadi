@@ -36,11 +36,11 @@
   
 - 🔭 I’m currently working on an anomaly detection platform (frontend and backend) for time series spacecraft telemetry data
 
-- 🌱 I’m currently learning SQL, InfluxDB, Sci-Kit Learn, and Web3 Frameworks
+- 🌱 I’m currently learning Solidity, Sci-Kit Learn, ReactJS, and Web3 Frameworks
 
 - 👯 I’m looking to collaborate on open-source DeFi projects on the Celo and Ethereum blockchains
 
-- 💬 Talk to me about space, running, algorithms, financial markets, crypto, and Elon Musk
+- 💬 Talk to me about space, running, space exploration, financial markets, crypto, and open-source code libraries
 
 </br>
 
