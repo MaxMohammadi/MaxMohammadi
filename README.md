@@ -75,8 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 </a>
 
-
- 
+[![wakatime](https://wakatime.com/badge/user/80d9f564-1f5b-4443-a619-0a21f5114f00/project/31425dce-231a-448c-9224-2eb62f902ff0.svg)](https://wakatime.com/badge/user/80d9f564-1f5b-4443-a619-0a21f5114f00/project/31425dce-231a-448c-9224-2eb62f902ff0) 
 
 <!-- ![Max Mohammadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMohammadi&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
