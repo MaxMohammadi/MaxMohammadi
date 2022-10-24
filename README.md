@@ -69,7 +69,7 @@
   
 </a>
 <a href="https://github.com/MaxMohammadi/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&theme=chartreuse-dark&langs_count=5&count_private=true"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMohammadi&theme=chartreuse-dark&langs_count=10&count_private=true"/>
 </a>
 <a href="https://github.com/MaxMohammadi/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
