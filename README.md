@@ -1,10 +1,4 @@
-<h1 align='center'> Hello World! </h1>
-<p align='center'>
-</p>
-<div align = 'center' size='20px'> Hi! My name is Max Mohammadi. Check out my GitHub Profile :smile:
-</br>
-</br>
-<h2 align='center'> Connect with me </h2>
+<h2 align='center'>My Socials</h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/maxwellmohammadi/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/MohammadiMax'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
