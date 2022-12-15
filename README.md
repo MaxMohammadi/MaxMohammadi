@@ -43,10 +43,8 @@
 <p align = 'center'>
   <img align='center' src ='https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves'>
   <img align='center' src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'>
+  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 </p>
-
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves)](https://githubtrends.io)
-
-[![GitHub Trends SVG1](https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io) -->
 
 
