@@ -1,6 +1,3 @@
-![](https://github.com/MaxMohammadi/MaxMohammadi/blob/main/render1628462717562.gif)
-
-
 <h1 align='center'> Hello World! </h1>
 <p align='center'>
 </p>
@@ -18,15 +15,6 @@
 </p>
 </div>
 </br>
-
-<h2 align='center'> Skills </h2>
-<p align = 'center'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
-<br>
-</br>
 </p>
 <h2 align = 'center'> About Me </h2>
   
@@ -43,8 +31,8 @@
 <p align = 'center'>
   <img align='center' src ='https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves'>
   <img align='center' src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'>
-  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+  <img align="center" height="238px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
+  <img align="center" height="348px" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 </p>
 
 
