@@ -44,4 +44,8 @@
 
 </br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaxMohammadi/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves)](https://githubtrends.io)
+
+[![GitHub Trends SVG1](https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+
+
