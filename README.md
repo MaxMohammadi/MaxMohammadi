@@ -23,12 +23,8 @@
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/graphql.svg'>
 <br>
 </br>
 </p>
@@ -44,8 +40,13 @@
 
 </br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves)](https://githubtrends.io)
+<p align = 'center'>
+  <img align='center' src ='https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves'>
+  <img align='center' src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'>
+</p>
 
-[![GitHub Trends SVG1](https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves)](https://githubtrends.io)
+
+[![GitHub Trends SVG1](https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io) -->
 
 
