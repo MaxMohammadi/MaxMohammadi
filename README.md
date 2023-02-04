@@ -8,7 +8,13 @@
 <a href = 'https://www.youtube.com/channel/UCHUUiEYD8uydi23szkFXbwA'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>
 </p>
 </div>
-</br>
+
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
+
 </p>
 <h2 align = 'center'> About Me </h2>
   
