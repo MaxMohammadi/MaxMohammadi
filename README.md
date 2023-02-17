@@ -9,9 +9,8 @@
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 <p align = 'center'>
-  <img align="center" height="196px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
-  <img align="center" height="196px" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxMohammadi" width="96%" />
+  <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 <!--   <img align='center' height="350px" width="400px" src ='https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves'>
   <img align='center' height="350px" width="400px" src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'> -->
   <br/>
