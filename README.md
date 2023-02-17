@@ -29,7 +29,7 @@
   <img align='center' height="350px" width="400px" src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'> -->
   <br/>
   <br/>
-  <a href="https://asciinema.org/a/1I4V8pmZELe5wWS3zCwNq4v8n" target="_blank"><img width="80%" src="https://asciinema.org/a/1I4V8pmZELe5wWS3zCwNq4v8n.svg" /></a>
+  <img width="80%" src="https://asciinema.org/a/1I4V8pmZELe5wWS3zCwNq4v8n.svg" />
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
