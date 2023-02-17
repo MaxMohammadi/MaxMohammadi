@@ -21,16 +21,15 @@
 - 💬 Talk to me about space, running, space exploration, financial markets, crypto, and open-source code libraries
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
 
 <p align = 'center'>
   <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMohammadi&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=MaxMohammadi&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 <!--   <img align='center' height="350px" width="400px" src ='https://api.githubtrends.io/user/svg/MaxMohammadi/langs?time_range=one_year&include_private=True&theme=synthwaves'>
   <img align='center' height="350px" width="400px" src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'> -->
-  
+  <br/>
+  <br/>
+  <a href="https://asciinema.org/a/1I4V8pmZELe5wWS3zCwNq4v8n" target="_blank"><img width="80%" src="https://asciinema.org/a/1I4V8pmZELe5wWS3zCwNq4v8n.svg" /></a>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
