@@ -22,10 +22,10 @@
 </p>
 <h2 align = 'center'> About Me </h2>
   
-- 🔭 I’m currently working on an anomaly detection platform (frontend and backend) for time series spacecraft telemetry data
+- 🔭 I’m currently working on LLMs, NFTs, and DeFi
 
-- 🌱 I’m currently learning Solidity, Sci-Kit Learn, ReactJS, and Web3 Frameworks
+- 🌱 I’m currently learning Solidity, Llama Index & LangChain, ReactJS, Web3 Frameworks, and Move
 
-- 👯 I’m looking to collaborate on open-source DeFi projects on the Celo and Ethereum blockchains
+- 👯 I’m looking to collaborate on open-source DeFi projects on the Aptos, Sui, and Solana blockchains
 
 - 💬 Talk to me about space, running, space exploration, financial markets, crypto, and open-source code libraries
