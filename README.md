@@ -15,7 +15,7 @@
   <img align='center' height="350px" width="400px" src='https://api.githubtrends.io/user/svg/MaxMohammadi/repos?time_range=one_year&theme=synthwaves'> -->
   <br/>
   <br/>
-  <img src="/max_term.png" width="98%" alt="terminal" />
+  <img src="/image (1).png" width="98%" alt="terminal" />
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
